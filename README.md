@@ -22,3 +22,11 @@ npm install
 ```
 
 Once node dependencies are installed to build the site just execute hugo in the root directory. This will create a public folder where the compiled site will be.
+
+## Local web server
+
+For running a local web server with the built site use
+
+```bash
+hugo server -D
+```
