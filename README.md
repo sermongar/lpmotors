@@ -15,4 +15,10 @@ This website is using the [Tella theme](https://themes.gohugo.io/themes/tella/).
 
 ## Building
 
-To build the site just execute hugo in the root directory. This will create a public folder where the compiled site will be.
+For building you will to install node dependencies first:
+
+```bash
+npm install
+```
+
+Once node dependencies are installed to build the site just execute hugo in the root directory. This will create a public folder where the compiled site will be.
