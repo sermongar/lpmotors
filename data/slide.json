@@ -4,8 +4,12 @@
     "image": "img/slide/slide01.jpg"
   },
   {
-    "title": "Sample text here...",
+    "title": "Este es un texto de prueba",
     "image": "img/slide/slide02.jpg",
     "color": "text-black"
+  },
+  {
+    "title": "Telo A Hugo theme for Companies.",
+    "image": "img/slide/slide01.jpg"
   }
 ]
