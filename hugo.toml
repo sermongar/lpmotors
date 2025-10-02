@@ -25,7 +25,7 @@ enableRobotsTXT = true
 
   [params.logo]
     main = "img/logo/logo.svg"
-    alt = "Tella Logo"
+    alt = "LPMotors Logo"
 
     # The size parameter is the class name of tailwindcss
     # https://tailwindcss.com/
