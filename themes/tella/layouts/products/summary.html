@@ -1,6 +1,14 @@
 <a href="{{ .Permalink }}">
     <div class="summary border p-3">
-        <h2 class="text-3xl">
+        {{ with .Params.image }}
+        <img
+          id="thumb"
+          alt="{{ $.Title }}"
+          class="aspect-video object-cover w-auto lg:h-44 mx-auto"
+          src="{{ . | relURL }}"
+        />
+        {{ end }}
+        <h2 class="text-3xl text-center mt-2">
             {{ .Title }}
         </h2>
         <p>{{ .Description }}</p>
