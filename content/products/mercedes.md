@@ -4,11 +4,11 @@ date: 2020-06-23T12:33:45+10:00
 draft: false
 featured: true
 weight: 1
-image: "/img/cars/masseratti.jpg"
+image: "/img/cars/GLE.jpeg"
 description: Mercedes GLE 63 AMG  V8 Biturbo 560cv 
 ---
 
-![Maserati car](/img/cars/GLE.jpg)
+![Mercedes car](/img/cars/GLE.jpeg)
 
 
 
