@@ -24,7 +24,7 @@ enableRobotsTXT = true
   googleFonts = true
 
   [params.logo]
-    main = "img/logo/lpm-simple.jpeg"
+    main = "img/logo/lpm-simple.png"
     alt = "LPMotors Logo"
 
     # The size parameter is the class name of tailwindcss
