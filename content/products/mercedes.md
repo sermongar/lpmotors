@@ -4,7 +4,7 @@ date: 2020-06-23T12:33:45+10:00
 draft: false
 featured: true
 weight: 1
-image: "/img/cars/GLE.jpg"
+image: "/img/cars/masseratti.jpg"
 description: Mercedes GLE 63 AMG  V8 Biturbo 560cv 
 ---
 
@@ -19,4 +19,4 @@ Con su bola de remolque retráctil, la capacidad de maletero y el confort de un 
 En cuanto a la comodidad contamos con los acabados más top de la marca, asientos calefactables de cuero con memoria en los dos asientos delanteros, climatizador trizona por lo que los pasajeros en la parte de atras pueden llevar una temperatura diferente, mandos en el volante, comandos de voz, multiples ayudas a la conducción como sistema de radar anticolision, mantenimiento de carril, velocidad crucero adaptable.. y un largo etcétera que logra que disfrutes haciendo kilómetros con este coche. 
 
 
-Ahora que quieres venir a verlo y probarlo puedes contactar con nosotros desde [aqui](/contacto)
+Si quiere venir a verlo y probarlo puede contactar con nosotros desde [aqui](/contacto)
