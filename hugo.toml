@@ -29,7 +29,7 @@ enableRobotsTXT = true
 
     # The size parameter is the class name of tailwindcss
     # https://tailwindcss.com/
-    size = "h-15"
+    size = "h-20"
 
   [params.site]
     name = "LPMotors"
